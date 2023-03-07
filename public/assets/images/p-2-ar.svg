@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 398 566" width="398" height="566">
+	<title>Shape-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #3d7cf4 } 
+	</style>
+	<g id="Design">
+		<path id="Shape" class="shp0" d="M0.3 89L169.58 0L397.3 374.18L120.59 566L7.3 420.95L133.45 327.41L0.3 89Z" />
+	</g>
+</svg>
